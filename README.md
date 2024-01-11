@@ -1,1 +1,1 @@
-# Deepfaek-detection-through-deep-learning-
+# Deepfake-detection-through-deep-learning-
